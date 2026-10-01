@@ -1,0 +1,6 @@
+{
+  "name": "LookFind - Motor de Búsqueda Minimalista y Moderno",
+  "description": "Página web moderna, rápida y minimalista inspirada en Google para la marca LookFind, con búsqueda inteligente, búsqueda por voz, Lens y menú de aplicaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
